@@ -1,0 +1,40 @@
+{
+  "generated_at": "2026-11-22T14:37:18.134Z",
+  "items": {
+    "problem:1": {
+      "kind": "problem",
+      "id": "1",
+      "title": "Matrix-Vector Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1",
+      "path": "problems/0001-matrix-vector-dot-product",
+      "first_solved_at": "2026-11-16T02:14:27.290Z",
+      "last_pushed_at": "2026-11-16T02:14:27.290Z",
+      "language": "python",
+      "lines": 6
+    },
+    "math:1": {
+      "kind": "math",
+      "id": "1",
+      "title": "Derivatives and Gradients",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/1",
+      "path": "math/0001-derivatives-and-gradients",
+      "first_solved_at": "2026-11-16T02:16:28.911Z",
+      "last_pushed_at": "2026-11-16T02:16:28.911Z"
+    },
+    "math:5": {
+      "kind": "math",
+      "id": "5",
+      "title": "Gradient Descent Updates",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/5",
+      "path": "math/0005-gradient-descent-updates",
+      "first_solved_at": "2026-11-16T02:24:10.519Z",
+      "last_pushed_at": "2026-11-16T02:24:10.519Z"
+    }
+  }
+}
