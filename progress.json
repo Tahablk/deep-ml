@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T14:37:18.134Z",
+  "generated_at": "2026-11-22T14:37:20.090Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -35,6 +35,80 @@
       "path": "math/0005-gradient-descent-updates",
       "first_solved_at": "2026-11-16T02:24:10.519Z",
       "last_pushed_at": "2026-11-16T02:24:10.519Z"
+    },
+    "math:32": {
+      "kind": "math",
+      "id": "32",
+      "title": "Softmax and Cross-Entropy",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/32",
+      "path": "math/0032-softmax-and-cross-entropy",
+      "first_solved_at": "2026-11-17T00:42:11.686Z",
+      "last_pushed_at": "2026-11-17T00:42:11.686Z"
+    },
+    "math:38": {
+      "kind": "math",
+      "id": "38",
+      "title": "Log-Likelihood Gradients",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/38",
+      "path": "math/0038-log-likelihood-gradients",
+      "first_solved_at": "2026-11-17T17:58:40.311Z",
+      "last_pushed_at": "2026-11-17T17:58:40.311Z"
+    },
+    "problem:22": {
+      "kind": "problem",
+      "id": "22",
+      "title": "Sigmoid Activation Function Understanding",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/22",
+      "path": "problems/0022-sigmoid-activation-function-understanding",
+      "first_solved_at": "2026-11-17T18:03:30.319Z",
+      "last_pushed_at": "2026-11-17T18:03:30.319Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:42": {
+      "kind": "problem",
+      "id": "42",
+      "title": "Implement ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/42",
+      "path": "problems/0042-implement-relu-activation-function",
+      "first_solved_at": "2026-11-17T18:05:57.107Z",
+      "last_pushed_at": "2026-11-17T18:05:57.107Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:44": {
+      "kind": "problem",
+      "id": "44",
+      "title": "Leaky ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/44",
+      "path": "problems/0044-leaky-relu-activation-function",
+      "first_solved_at": "2026-11-17T18:07:09.800Z",
+      "last_pushed_at": "2026-11-17T18:07:09.800Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:23": {
+      "kind": "problem",
+      "id": "23",
+      "title": "Softmax Activation Function Implementation ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/23",
+      "path": "problems/0023-softmax-activation-function-implementation",
+      "first_solved_at": "2026-11-17T18:15:53.084Z",
+      "last_pushed_at": "2026-11-17T18:15:53.084Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
