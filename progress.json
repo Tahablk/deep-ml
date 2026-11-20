@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T14:37:21.891Z",
+  "generated_at": "2026-11-22T14:37:23.742Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -135,6 +135,32 @@
       "last_pushed_at": "2026-11-19T18:28:38.543Z",
       "language": "python",
       "lines": 23
+    },
+    "problem:217": {
+      "kind": "problem",
+      "id": "217",
+      "title": "Derivatives of Activation Functions",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/217",
+      "path": "problems/0217-derivatives-of-activation-functions",
+      "first_solved_at": "2026-11-20T18:17:20.761Z",
+      "last_pushed_at": "2026-11-20T18:17:20.761Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:219": {
+      "kind": "problem",
+      "id": "219",
+      "title": "Derivative of Softmax",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/219",
+      "path": "problems/0219-derivative-of-softmax",
+      "first_solved_at": "2026-11-20T18:56:53.798Z",
+      "last_pushed_at": "2026-11-20T18:56:53.798Z",
+      "language": "python",
+      "lines": 33
     }
   }
 }
