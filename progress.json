@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T14:37:25.554Z",
+  "generated_at": "2026-11-22T14:37:27.643Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -23,7 +23,7 @@
       "url": "https://www.deep-ml.com/math-problems/1",
       "path": "math/0001-derivatives-and-gradients",
       "first_solved_at": "2026-11-16T02:16:28.911Z",
-      "last_pushed_at": "2026-11-16T02:16:28.911Z"
+      "last_pushed_at": "2026-11-22T14:37:27.641Z"
     },
     "math:5": {
       "kind": "math",
@@ -34,7 +34,7 @@
       "url": "https://www.deep-ml.com/math-problems/5",
       "path": "math/0005-gradient-descent-updates",
       "first_solved_at": "2026-11-16T02:24:10.519Z",
-      "last_pushed_at": "2026-11-16T02:24:10.519Z"
+      "last_pushed_at": "2026-11-22T14:37:27.641Z"
     },
     "math:32": {
       "kind": "math",
@@ -45,7 +45,7 @@
       "url": "https://www.deep-ml.com/math-problems/32",
       "path": "math/0032-softmax-and-cross-entropy",
       "first_solved_at": "2026-11-17T00:42:11.686Z",
-      "last_pushed_at": "2026-11-17T00:42:11.686Z"
+      "last_pushed_at": "2026-11-22T14:37:27.641Z"
     },
     "math:38": {
       "kind": "math",
@@ -56,7 +56,7 @@
       "url": "https://www.deep-ml.com/math-problems/38",
       "path": "math/0038-log-likelihood-gradients",
       "first_solved_at": "2026-11-17T17:58:40.311Z",
-      "last_pushed_at": "2026-11-17T17:58:40.311Z"
+      "last_pushed_at": "2026-11-22T14:37:27.641Z"
     },
     "problem:22": {
       "kind": "problem",
