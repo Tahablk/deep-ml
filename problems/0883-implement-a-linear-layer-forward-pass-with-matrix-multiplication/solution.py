@@ -5,3 +5,11 @@ def linear_forward(x: torch.Tensor, W: torch.Tensor, b: torch.Tensor) -> torch.T
     W_transposed = torch.transpose(W, 0, 1)
     return x @ W_transposed + b 
 
+
+
+
+
+
+
+
+
