@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**21** solved · 16 problems · 1 labs · 4 math
+**22** solved · 17 problems · 1 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -28,6 +28,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Single Linear Neuron Forward](https://www.deep-ml.com/problems/1224) | easy | 2026-11-22 | [solution](problems/1224-single-linear-neuron-forward) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-11-17 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-11-20 | [solution](problems/0219-derivative-of-softmax) |
+| [Numerically Stable Softmax](https://www.deep-ml.com/problems/1227) | medium | 2026-11-25 | [solution](problems/1227-numerically-stable-softmax) |
 
 ## Labs
 
